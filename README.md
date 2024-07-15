@@ -6,7 +6,7 @@ extraction with the help of VADER tokenization and for content based features we
 out TFIDF feature vectoring and then we sum up their scores. This allows identifying the
 affective parameters and having information about the favorable topics in the comments
 of students. The essence of our project is in the application of the machine learning algorithms such
-as Random Forest and SVM. All of these models are employed in classifying and
+as Random Forest. All of these models are employed in classifying and
 determining the tones and the amount of positivity or negativity embodied in the text for
 which the structured features of the reviews are extracted. In addition, we elaborate NRCLex for explaining revelation of deeper emotion other than
 simple positive and negative. 
