@@ -10,3 +10,5 @@ as Random Forest. All of these models are employed in classifying and
 determining the tones and the amount of positivity or negativity embodied in the text for
 which the structured features of the reviews are extracted. In addition, we elaborate NRCLex for explaining revelation of deeper emotion other than
 simple positive and negative. 
+
+datset used: https://www.kaggle.com/datasets/septa97/100k-courseras-course-reviews-dataset
